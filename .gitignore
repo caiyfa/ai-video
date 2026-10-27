@@ -5,14 +5,5 @@
 *.tmp
 *~
 
-# 大媒体文件不入库（成片/音频；图片保留）
-*.mp4
-*.mov
-*.webm
-*.avi
-*.mkv
-*.mp3
-*.wav
-*.aac
-*.flac
-*.m4a
+# 渲染缓存
+*_cache/
